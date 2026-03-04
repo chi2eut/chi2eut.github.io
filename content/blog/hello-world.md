@@ -6,4 +6,3 @@ tags = ["general"]
 [extra]
 toc = true
 +++
-This is my first post on my new Zola blog!

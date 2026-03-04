@@ -2,8 +2,8 @@
 base_url = "https://chi2eut.github.io/"
 
 # The site title and description
-title = "chi2eut's Blog"
-description = "A minimalist blog built with Zola and Anemone."
+title = "Chahyun's Blog"
+description = "A blog bantering about programming languages"
 
 # The theme to use
 theme = "anemone"
