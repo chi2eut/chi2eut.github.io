@@ -1,0 +1,41 @@
+# The URL the site will be built for
+base_url = "https://chi2eut.github.io/"
+
+# The site title and description
+title = "chi2eut's Blog"
+description = "A minimalist blog built with Zola and Anemone."
+
+# The theme to use
+theme = "anemone"
+
+# Whether to compile the theme's sass
+compile_sass = true
+
+# The default language
+default_language = "en"
+
+# Build settings
+build_search_index = true
+
+taxonomies = [
+  { name = "tags", feed = true },
+]
+
+[extra]
+# Favicon
+favicon = "favicon.ico"
+
+# Enable listing of pages in the homepage
+list_pages = true
+
+# Display author name in blog posts
+display_author = true
+author = "chi2eut"
+
+# Header navigation
+header_nav = [
+  { url = "/", name_en = "/home/" },
+  { url = "/blog", name_en = "/blog/" }
+]
+
+footer = "© 2026 chi2eut"
