@@ -4,7 +4,7 @@ template = "section.html"
 +++
 
 Hello, my name is Chahyun Kang. I am a graduate student at BYU. 
-My primary research interest is in PL theory. 
+My primary research interest is in Programming Language Theory. 
 Currently, I am researching static analysis methods, emphasizing in control-flow analysis for higher-order languages. 
 
 ## My Works
@@ -15,7 +15,6 @@ Currently, I am researching static analysis methods, emphasizing in control-flow
 ### Projects
 
 - AAM implementation (0CFA, 1CFA) k-CFA
-- CFA2
 - P4F
 - Small-step m-CFA
 - Big-step control-flow analysis (ADI)
@@ -29,3 +28,4 @@ Currently, I am researching static analysis methods, emphasizing in control-flow
 Feel free to contact me:
 - email: <chi2eut@byu.edu>
 - Github: <https://github.com/chi2eut>
+- LinkedIn: <https://www.linkedin.com/in/chahyun-kang-18b515250>
