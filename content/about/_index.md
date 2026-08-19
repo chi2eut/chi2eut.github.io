@@ -3,7 +3,7 @@ title = "About Me"
 template = "section.html"
 +++
 
-Hello, my name is Chahyun Kang. I am a graduate student at BYU. 
+Hello, my name is Chahyun Kang. I am a PhD student at BYU. 
 My primary research interest is in Programming Language Theory. 
 Currently, I am researching static analysis methods, emphasizing in control-flow analysis for higher-order languages. 
 
@@ -11,6 +11,7 @@ Currently, I am researching static analysis methods, emphasizing in control-flow
 
 ### Publications
 
+- Chahyun Kang and Kimball Germane. 2026. Demand-on-Demand Control-Flow Analysis. Proc. ACM Program. Lang. 10, ICFP, Article 289 (August 2026), 34 pages. <https://doi.org/10.1145/3828687>
 
 ### Projects
 
